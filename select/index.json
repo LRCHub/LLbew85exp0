@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Piano Man",
+  "base_artist": "Billy Joel",
+  "createdAt": "2026-02-21T03:46:16.671019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/01_Piano_Man_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Piano Man (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/02_Piano_Man_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/03_Piano_Man_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/04_Piano_Man_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ode to a Superhero (Parody of \"Piano Man\" By Billy Joel)",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/05_Ode_to_a_Superhero_(Parody_of__Piano_Man__By_Billy_Joel)_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/06_Piano_Man_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/07_Piano_Man_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Piano Man",
+      "artist": "Elton John & Billy Joel",
+      "has_synced": false,
+      "path": "select/08_Piano_Man_Elton_John_&_Billy_Joel.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Piano Man - Radio Edit",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/09_Piano_Man_-_Radio_Edit_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Piano Man [Radio Edit]",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/10_Piano_Man_[Radio_Edit]_Billy_Joel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "has_synced": false,
+      "path": "select/pl_01_Piano_Man_Billy_Joel.txt"
+    }
+  ]
+}
